@@ -8,4 +8,4 @@ on:
 
 jobs:
   call-workflow-passing-data:
-      uses: kivel/make_actions_demo/.github/workflows/makefile.yml@main
+      uses: kivel/make_actions_demo/.github/workflows/makefile.yml@re-use
